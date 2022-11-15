@@ -3,12 +3,13 @@
   <h3>Skills</h3>
   <ul>
     <li>HTML</li>
-    <li>JavaScript</li>
     <li>CSS/SCSS</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
     <li>React</li>
     <li>NodeJs</li>
     <li>MySQL</li>
-    <li>Git</li>
+    <li>Git / GitHub</li>
     <li>Bootstrap</li>
   </ul>
 
