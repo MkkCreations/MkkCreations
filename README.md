@@ -19,4 +19,4 @@
 
   <h3 >Contact with me</h3>
 
-  <p>mkk2@mkkcreations.com</p>
+  <p>khaffoum@gmail.com</p>
