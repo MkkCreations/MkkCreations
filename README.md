@@ -4,13 +4,14 @@
   <ul>
     <li>HTML</li>
     <li>CSS/SCSS</li>
+    <li>Bootstrap</li>
     <li>JavaScript</li>
     <li>TypeScript</li>
-    <li>React</li>
+    <li>ReactJs</li>
     <li>NodeJs</li>
     <li>MySQL</li>
-    <li>Git / GitHub</li>
-    <li>Bootstrap</li>
+    <li>Git / GitHub / GitLab</li>
+    <li>FireBase</li>
   </ul>
 
   <h3>Projects</h3>
