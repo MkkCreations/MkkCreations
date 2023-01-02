@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mohamed</h1>
+<h1>Hi, I'm Khaffou</h1>
 <h2>I'm a Web Developer</h2>
   <h3>Skills</h3>
   <ul>
