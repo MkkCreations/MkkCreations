@@ -1,7 +1,7 @@
 <h1>Hi, I'm Khaffou</h1>
 <h2>I'm a Web Developer</h2>
   <h3>Skills</h3>
-  <ul>
+  <ul style="display:flex;">
     <li>HTML</li>
     <li>CSS/SCSS</li>
     <li>Bootstrap</li>
