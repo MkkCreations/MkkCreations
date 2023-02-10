@@ -7,6 +7,8 @@
     <li>Bootstrap</li>
     <li>JavaScript</li>
     <li>TypeScript</li>
+    <li>PHP</li>
+    <li>Shell Bash</li>
     <li>ReactJs</li>
     <li>NodeJs</li>
     <li>MySQL</li>
