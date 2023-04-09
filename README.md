@@ -4,7 +4,7 @@
   <h3>Skills</h3>
   <div>
     <ul>
-      <li style="border:1px solid red !important;">HTML</li>
+      <li>HTML</li>
       <li>CSS/SCSS</li>
       <li>Bootstrap</li>
       <li>JavaScript</li>
@@ -13,6 +13,7 @@
       <li>Shell Bash</li>
       <li>ReactJs</li>
       <li>NodeJs</li>
+      <li>Flutter / Dart</li>
       <li>MySQL</li>
       <li>Git / GitHub / GitLab</li>
       <li>FireBase</li>
