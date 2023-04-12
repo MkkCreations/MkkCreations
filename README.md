@@ -10,6 +10,7 @@
       <li>JavaScript</li>
       <li>TypeScript</li>
       <li>PHP</li>
+      <li>Java / Spring Boot</li>
       <li>Shell Bash</li>
       <li>ReactJs</li>
       <li>NodeJs</li>
