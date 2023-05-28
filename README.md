@@ -1,7 +1,12 @@
+```js
+                                                
+                                                console.log('Developer')
+                                                     
+```
 
-<h1>Hi, I'm Khaffou</h1>
-<h2>I'm a Developer and Lover of Algorithmic</h2>
-  <center><h3>Skills</h3><center>
+<h1 align="center">Hi, I'm Khaffou</h1>
+<h2 align="center">I'm a Developer and Lover of Algorithmic</h2>
+  <h3 align="center">SKILLS</h3>
   <div>
     <ul>
       <p><img width="24" height="24" src="https://img.icons8.com/color/60/web.png" alt="web"/> Web: HTML / CSS / SCSS</p>
@@ -19,10 +24,9 @@
       <p><img width="24" height="24" src="https://img.icons8.com/color/60/firebase.png" alt="firebase"/> FireBase</p>
     </ul>
   </div>
-  <h3>Projects</h3>
-
-  <a href="https://portfolio-v2-production-b10f.up.railway.app/" >Checkout My Projects</a>
-
-  <h3 >Contact with me</h3>
-
-  <p>khaffoum@gmail.com</p>
+  <hr>
+  <h3 align="center">PROJECTS</h3>
+  <p align="center"><a href="https://portfolio-v2-production-b10f.up.railway.app/">Checkout My Projects</a></p>
+  <hr>
+  <h6 align="center" >Contact with me</h6>
+  <p align="center" >khaffoum@gmail.com</p>
