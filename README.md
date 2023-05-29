@@ -1,10 +1,10 @@
+
 ```js
-                                                
-                                            console.log('Developer')
-                                                     
+console.log('Developer')  console.log('BackEnd')  console.log('FrontEnd')  console.log('Software')  console.log('Web') console.log('Mobile')
 ```
 
 <h1 align="center">Hi, I'm Khaffou</h1>
+
 <h2 align="center">I'm a Developer and Lover of Algorithmic</h2>
   <h3 align="center">SKILLS</h3>
   <div>
@@ -25,8 +25,10 @@
     </ul>
   </div>
   <hr>
-  <h3 align="center">PROJECTS</h3>
+  <h3 align="center" >PROJECTS</h3>
   <p align="center"><a href="https://portfolio-v2-production-b10f.up.railway.app/">Checkout My Projects</a></p>
   <hr>
   <h6 align="center" >Contact with me</h6>
-  <p align="center" >khaffoum@gmail.com</p>
+<p align="center" >khaffoum@gmail.com</p>
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MkkCreations&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
