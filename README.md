@@ -5,7 +5,7 @@ console.log('Developer')  console.log('BackEnd')  console.log('FrontEnd')  conso
 
 <h1 align="center">Hi, I'm Khaffou</h1>
 
-<h2 align="center">I'm a Developer and Lover of Algorithmic</h2>
+<h2 align="center">I'm a Developer. React, Django and Spring Boot enthusiast</h2>
   <h3 align="center">SKILLS</h3>
   
 ### Languages
