@@ -24,6 +24,7 @@ console.log('Developer')  console.log('BackEnd')  console.log('FrontEnd')  conso
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MkkCreations)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=springboot)](https://github.com/MkkCreations)
 [![JavaFx](https://img.shields.io/badge/javafx-black?style=for-the-badge&logo=javafx)](https://github.com/MkkCreations)
+[![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify)](https://github.com/MkkCreations)
 [![NodeJs](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/MkkCreations)
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/MkkCreations)
 [![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)](https://github.com/MkkCreations)
