@@ -1,32 +1,37 @@
 
-```js
-console.log('Developer')  console.log('BackEnd')  console.log('FrontEnd')  console.log('Software')  console.log('Web') console.log('Mobile')
+```java
+  System.out.println('Software'); System.out.println('Developer'); System.out.println('BackEnd'); System.out.println('FrontEnd');
 ```
 
 <h1 align="center">Hi, I'm Khaffou</h1>
 
-<h2 align="center">I'm a Developer. React, Django and Spring Boot enthusiast</h2>
+<h2 align="center">I'm a Developer. React, Angular, Spring Boot and Django enthusiast</h2>
   <h3 align="center">SKILLS</h3>
   
 ### Languages
+[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/MkkCreations)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MkkCreations)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/MkkCreations)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/MkkCreations)
-[![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/MkkCreations)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/MkkCreations)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/MkkCreations)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/MkkCreations)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/MkkCreations)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/MkkCreations)
 
 ### Technologies & Frameworks
-[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/MkkCreations)
-[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/MkkCreations)
-[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MkkCreations)
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=springboot)](https://github.com/MkkCreations)
+[![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/MkkCreations)
+[![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MkkCreations)
+[![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/MkkCreations)
+[![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/MkkCreations)
 [![JavaFx](https://img.shields.io/badge/javafx-black?style=for-the-badge&logo=javafx)](https://github.com/MkkCreations)
 [![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify)](https://github.com/MkkCreations)
 [![NodeJs](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)](https://github.com/MkkCreations)
+[![Flask](https://img.shields.io/badge/flask-black?style=for-the-badge&logo=flask)](https://github.com/MkkCreations)
 [![Flutter](https://img.shields.io/badge/flutter-black?style=for-the-badge&logo=flutter)](https://github.com/MkkCreations)
+[![MySQL](https://img.shields.io/badge/mysql-black?style=for-the-badge&logo=mysql)](https://github.com/MkkCreations)
+[![MongoDB](https://img.shields.io/badge/mongodb-black?style=for-the-badge&logo=mongodb)](https://github.com/MkkCreations)
 [![AWS](https://img.shields.io/badge/aws-black?style=for-the-badge&logo=amazon-aws)](https://github.com/MkkCreations)
 [![Git](https://img.shields.io/badge/git-black?style=for-the-badge&logo=git)](https://github.com/MkkCreations)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/MkkCreations)
@@ -47,7 +52,7 @@ console.log('Developer')  console.log('BackEnd')  console.log('FrontEnd')  conso
 
 <hr>
 <h3 align="center" >PROJECTS</h3>
-<p align="center"><a href="https://portfolio-v2-production-b10f.up.railway.app/">Checkout My Projects</a></p>
+<p align="center"><a href="https://khaffouportfolio-production.up.railway.app/">Checkout My Projects</a></p>
 <hr>
 <h6 align="center" >Contact with me</h6>
 <p align="center" >khaffoum@gmail.com</p>
