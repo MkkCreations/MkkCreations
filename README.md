@@ -5,15 +5,15 @@
 
 <h1 align="center">Hi, I'm Khaffou</h1>
 
-<h2 align="center">I'm a Developer. React, Angular, Spring Boot and Django enthusiast</h2>
+<h2 align="center">Spring Boot - .NET - React - Angular</h2>
   <h3 align="center">SKILLS</h3>
   
 ### Languages
 [![Java](https://img.shields.io/badge/java-black?style=for-the-badge&logo=openjdk)](https://github.com/MkkCreations)
+[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/MkkCreations)
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/MkkCreations)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/MkkCreations)
 [![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/MkkCreations)
-[![C#](https://img.shields.io/badge/csharp-black?style=for-the-badge&logo=csharp)](https://github.com/MkkCreations)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/MkkCreations)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://github.com/MkkCreations)
 [![Dart](https://img.shields.io/badge/dart-black?style=for-the-badge&logo=dart)](https://github.com/MkkCreations)
@@ -23,7 +23,10 @@
 [![SpringBoot](https://img.shields.io/badge/SpringBoot-black?style=for-the-badge&logo=springboot)](https://github.com/MkkCreations)
 [![Django](https://img.shields.io/badge/django-black?style=for-the-badge&logo=django)](https://github.com/MkkCreations)
 [![React](https://img.shields.io/badge/react-black?style=for-the-badge&logo=react)](https://github.com/MkkCreations)
+[![.NET](https://img.shields.io/badge/.NET-black?style=for-the-badge&logo=dotnet)](https://github.com/MkkCreations)
+[![Blazor](https://img.shields.io/badge/Blazor-black?style=for-the-badge&logo=blazor)](https://github.com/MkkCreations)
 [![Angular](https://img.shields.io/badge/angular-black?style=for-the-badge&logo=angular)](https://github.com/MkkCreations)
+[![Symfony](https://img.shields.io/badge/symfony-black?style=for-the-badge&logo=symfony)](https://github.com/MkkCreations)
 [![Docker](https://img.shields.io/badge/docker-black?style=for-the-badge&logo=docker)](https://github.com/MkkCreations)
 [![JavaFx](https://img.shields.io/badge/javafx-black?style=for-the-badge&logo=javafx)](https://github.com/MkkCreations)
 [![Fastify](https://img.shields.io/badge/Fastify-black?style=for-the-badge&logo=fastify)](https://github.com/MkkCreations)
